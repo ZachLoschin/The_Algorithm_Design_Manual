@@ -1,7 +1,8 @@
 /* Author: Zachary Loschinskey
  * Date: 26 AUG 2022
  * Description: Create a hashmap to store phone numbers given a person name.
- *              Uses chaining to avoid collisions.
+ *              Uses chaining to avoid collisions. This phonebook allows you to search by area code
+ *              and find who exists in the phone book under that area code.
  */
 
 #include <iostream>
